@@ -14,6 +14,7 @@
 		955A731229704DCF0012D312 /* TaskModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 955A730D29704DCF0012D312 /* TaskModel.swift */; };
 		955A731329704DCF0012D312 /* TaskListVM.swift in Sources */ = {isa = PBXBuildFile; fileRef = 955A730F29704DCF0012D312 /* TaskListVM.swift */; };
 		955A731429704DCF0012D312 /* TaskListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 955A731129704DCF0012D312 /* TaskListView.swift */; };
+		955A7316297055CE0012D312 /* AddTaskView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 955A7315297055CE0012D312 /* AddTaskView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		955A730D29704DCF0012D312 /* TaskModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TaskModel.swift; sourceTree = "<group>"; };
 		955A730F29704DCF0012D312 /* TaskListVM.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TaskListVM.swift; sourceTree = "<group>"; };
 		955A731129704DCF0012D312 /* TaskListView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TaskListView.swift; sourceTree = "<group>"; };
+		955A7315297055CE0012D312 /* AddTaskView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddTaskView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 			isa = PBXGroup;
 			children = (
 				955A731129704DCF0012D312 /* TaskListView.swift */,
+				955A7315297055CE0012D312 /* AddTaskView.swift */,
 			);
 			name = View;
 			path = "../../ToDo-MVVM/ToDo-MVVM/View";
@@ -176,6 +179,7 @@
 				955A731229704DCF0012D312 /* TaskModel.swift in Sources */,
 				955A731329704DCF0012D312 /* TaskListVM.swift in Sources */,
 				955A731429704DCF0012D312 /* TaskListView.swift in Sources */,
+				955A7316297055CE0012D312 /* AddTaskView.swift in Sources */,
 				955A730129704D9F0012D312 /* ContentView.swift in Sources */,
 				955A72FF29704D9F0012D312 /* SimpleToDo_MVVMApp.swift in Sources */,
 			);
